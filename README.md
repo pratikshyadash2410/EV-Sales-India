@@ -16,7 +16,7 @@ objectives:
 
 •	To derive business and policy insights that can help accelerate EV adoption in India.
 
-# Tech Stack ⚙
+# Tech Stack⚙
 
 Programming Language: Python
 
