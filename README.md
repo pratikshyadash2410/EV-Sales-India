@@ -2,12 +2,10 @@
 
 The purpose of this project was to perform a detailed analysis of Electric Vehicle (EV) sales across Indian states, vehicle categories, and time periods.
 
-objectives:
+# objectives:
 
 •	To evaluate monthly and yearly sales growth trends of EVs in India.
-
 •	To compare state wise adoption patterns and identify leading regions.
-
 •	To analyse the contribution of different vehicle types (2W, 3W, 4W, etc.).
 
 •	To distinguish between passenger vs. commercial adoption of EVs.
