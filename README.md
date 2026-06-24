@@ -10,7 +10,7 @@ This project presents a data driven analysis of Electric Vehicle (EV) sales in I
 - Forecast future EV sales using time series forecasting techniques.
 - Develop a machine learning model to predict EV sales quantities.
 
-# Tech Stack⚙
+# Tech Stack
 
 • Programming Language: Python
 
@@ -26,7 +26,7 @@ This project presents a data driven analysis of Electric Vehicle (EV) sales in I
 
 • Time Series Forecasting 
 
-- Holt-Winters Exponential Smoothing
+- Holt Winters Exponential Smoothing
   
 • Machine Learning Models
 - Scikit-learn
@@ -71,8 +71,8 @@ Implemented a Holt-Winters Exponential Smoothing model to forecast EV sales for 
 • Forecast Output
 
 - Historical sales trend visualization
-- 12-month EV sales projection
-- Trend and seasonality-based forecasting
+- 12 month EV sales projection
+- Trend and seasonality based forecasting
 
 # Machine Learning Model
 
@@ -94,13 +94,13 @@ Developed an XGBoost Regressor to predict EV sales quantities.
 
 # Key Visualizations
 
--Monthly EV Sales Trend
--Yearly EV Sales Trend
--State-Wise EV Sales Analysis
--Vehicle Type Breakdown
--Vehicle Category Distribution
--Vehicle Class Analysis
--12-Month EV Sales Forecast
+- Monthly EV Sales Trend
+- Yearly EV Sales Trend
+- State-Wise EV Sales Analysis
+- Vehicle Type Breakdown
+- Vehicle Category Distribution
+- Vehicle Class Analysis
+- 12 Month EV Sales Forecast
 
 # Project Files
 
