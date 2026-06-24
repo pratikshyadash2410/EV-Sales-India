@@ -13,17 +13,25 @@ This project presents a data driven analysis of Electric Vehicle (EV) sales in I
 # Tech Stack⚙
 
 • Programming Language: Python
+
 • Data Analysis & Processing
+
 - Pandas
 - NumPy
+  
 • Data Visualization
+
 - Matplotlib
 - Seaborn
+
 • Time Series Forecasting 
+
 - Holt-Winters Exponential Smoothing
+  
 • Machine Learning Models
 - Scikit-learn
 - XGBoost Regressor
+  
 • Development Environment: Jupyter Notebook
 
 # Data Preprocessing
@@ -39,28 +47,29 @@ The dataset was prepared for analysis through the following preprocessing steps:
 
 # Analysis Performed
 • Monthly EV Sales Trend
-Analyzed monthly EV sales patterns to identify demand fluctuations and seasonal trends.
+- Analyzed monthly EV sales patterns to identify demand fluctuations and seasonal trends.
 
 • Yearly EV Sales Trend
-Examined annual EV sales trends to understand market growth over time.
+- Examined annual EV sales trends to understand market growth over time.
 
 • State-Wise EV Sales Analysis
-Compared EV sales across Indian states to identify adoption patterns and leading markets.
+- Compared EV sales across Indian states to identify adoption patterns and leading markets.
 
 • Vehicle Type Analysis
-Evaluated sales performance across different vehicle types.
+- Evaluated sales performance across different vehicle types.
 
 • Vehicle Category Analysis
-Analyzed the contribution of various vehicle categories to overall EV sales.
+- Analyzed the contribution of various vehicle categories to overall EV sales.
 
 • Vehicle Class Analysis
-Explored EV sales distribution across different vehicle classes.
+- Explored EV sales distribution across different vehicle classes.
 
 # Forecasting
 
 Implemented a Holt-Winters Exponential Smoothing model to forecast EV sales for the next 12 months using historical sales data.
 
 • Forecast Output
+
 - Historical sales trend visualization
 - 12-month EV sales projection
 - Trend and seasonality-based forecasting
@@ -70,6 +79,7 @@ Implemented a Holt-Winters Exponential Smoothing model to forecast EV sales for 
 Developed an XGBoost Regressor to predict EV sales quantities.
 
 • Model Workflow
+
 - Feature engineering
 - One hot encoding of categorical variables
 - Train-test split
@@ -77,6 +87,7 @@ Developed an XGBoost Regressor to predict EV sales quantities.
 - Performance evaluation using R² Score
 
 # Evaluation Metrics
+
 - Training R² Score
 - Testing R² Score
 
@@ -93,3 +104,9 @@ Developed an XGBoost Regressor to predict EV sales quantities.
 
 # Project Files
 
+- EV Sales.ipynb — Analysis notebook
+- Electric Vehicle Sales.csv — Dataset
+
+# Conclusion 
+
+This project demonstrates the application of data analysis, visualization, forecasting and machine learning techniques to understand India's evolving EV market and generate insights into sales patterns and future demand.
