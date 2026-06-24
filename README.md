@@ -74,9 +74,8 @@ Developed an XGBoost Regressor to predict EV sales quantities.
 
 # Evaluation Metrics
 
-- Training R² Score - 
-- Testing R² Score - 
-
+- Training R² Score - 98.56 %
+- Testing R² Score - 93.93 %
 
 # Key Insights
 
