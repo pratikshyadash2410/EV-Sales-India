@@ -32,22 +32,22 @@ The dataset was prepared for analysis through the following preprocessing steps:
 - Converted EV sales quantities to numeric format for analysis and modeling.
 
 # Analysis Performed
-• Monthly EV Sales Trend
+➜ Monthly EV Sales Trend
 - Analyzed monthly EV sales patterns to identify demand fluctuations and seasonal trends.
 
-• Yearly EV Sales Trend
+➜ Yearly EV Sales Trend
 - Examined annual EV sales trends to understand market growth over time.
 
-• State-Wise EV Sales Analysis
+➜ State-Wise EV Sales Analysis
 - Compared EV sales across Indian states to identify adoption patterns and leading markets.
 
-• Vehicle Type Analysis
+➜ Vehicle Type Analysis
 - Evaluated sales performance across different vehicle types.
 
-• Vehicle Category Analysis
+➜ Vehicle Category Analysis
 - Analyzed the contribution of various vehicle categories to overall EV sales.
 
-• Vehicle Class Analysis
+➜ Vehicle Class Analysis
 - Explored EV sales distribution across different vehicle classes.
 
 # Forecasting
