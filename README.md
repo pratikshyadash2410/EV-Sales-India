@@ -4,10 +4,13 @@ This project presents a data driven analysis of Electric Vehicle (EV) sales in I
 
 # Objective
 
--Analyze EV sales trends across India using historical sales data.
--Examine state wise adoption patterns and market distribution.
+- Analyze EV sales trends across India using historical sales data.
+- Examine state wise adoption patterns and market distribution.
+
 -Evaluate the performance of different vehicle types, categories and classes.
+
 -Forecast future EV sales using time series forecasting techniques.
+
 -Develop a machine learning model to predict EV sales quantities.
 
 # Tech Stack⚙
