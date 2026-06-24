@@ -4,35 +4,21 @@ This project presents a data driven analysis of Electric Vehicle (EV) sales in I
 
 # Objective
 
-- Analyze EV sales trends across India using historical sales data.
-- Examine state wise adoption patterns and market distribution.
-- Evaluate the performance of different vehicle types, categories and classes.
-- Forecast future EV sales using time series forecasting techniques.
-- Develop a machine learning model to predict EV sales quantities.
+- To evaluate monthly and yearly sales growth trends of EVs in India. 
+- To compare state wise adoption patterns and identify leading regions. 
+- To analyse the contribution of different vehicle types (2W, 3W, 4W, etc.). 
+- To distinguish between passenger vs commercial adoption of EVs. 
+- To build predictive models for forecasting future EV sales. 
+- To derive business and policy insights that can help accelerate EV adoption in India.
 
 # Tech Stack
 
-• Programming Language: Python
-
-• Data Analysis & Processing
-
-- Pandas
-- NumPy
-  
-• Data Visualization
-
-- Matplotlib
-- Seaborn
-
-• Time Series Forecasting 
-
-- Holt Winters Exponential Smoothing
-  
-• Machine Learning Models
-- Scikit-learn
-- XGBoost Regressor
-  
-• Development Environment: Jupyter Notebook
+- Programming Language: Python
+- Data Analysis & Processing: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Time Series Forecasting: Holt Winters Exponential Smoothing
+- Machine Learning Models: Scikit-learn, XGBoost Regressor
+- Development Environment: Jupyter Notebook
 
 # Data Preprocessing
 
@@ -88,19 +74,36 @@ Developed an XGBoost Regressor to predict EV sales quantities.
 
 # Evaluation Metrics
 
-- Training R² Score
-- Testing R² Score
+- Training R² Score - 
+- Testing R² Score - 
 
 
-# Key Visualizations
+# Key Insights
 
-- Monthly EV Sales Trend
-- Yearly EV Sales Trend
-- State-Wise EV Sales Analysis
-- Vehicle Type Breakdown
-- Vehicle Category Distribution
-- Vehicle Class Analysis
-- 12 Month EV Sales Forecast
+- EV adoption in India has shown a consistent upward trend, especially in the 
+last few years.
+- Certain states lead significantly in EV adoption (Uttar Pradesh, Maharashtra, 
+and Delhi), while other states show slower penetration. 
+- Two wheelers and three wheelers dominate the market, highlighting 
+affordability and usage in urban as well as semi urban areas. 
+- Four wheeler adoption is lower but steadily increasing, indicating a growing 
+consumer shift towards private EVs. 
+- The commercial vehicle category, particularly three wheelers show high 
+adoption due to demand in shared mobility and delivery services. 
+- The Linear Regression model achieved a Train score of 98.56% and Test 
+score of 93.93%, confirming that EV sales can be reliably predicted using 
+historical data. 
+- The Holt Winters forecasting model projected strong sales growth for the 
+next 12 months, further reinforcing the long-term upward trajectory of EV 
+adoption in India.
+
+# Reccommendations
+
+- Governments should expand targeted subsidies, tax incentives, and charging infrastructure in low adoption regions to promote balanced EV growth across states.
+- Automakers should strengthen their presence in the affordable EV segment, as these categories are key drivers of mass market adoption.
+- Manufacturers can accelerate four-wheeler (4W) EV adoption by offering battery warranties, flexible financing options, and robust charging ecosystem support.
+- Logistics and delivery companies should be encouraged to adopt three wheeler (3W) and light commercial vehicle (LCV) EVs for last mile transportation.
+- Policymakers and industry stakeholders can leverage forecasting insights to support strategic production planning, supply chain management and infrastructure development.
 
 # Project Files
 
@@ -109,4 +112,9 @@ Developed an XGBoost Regressor to predict EV sales quantities.
 
 # Conclusion 
 
-This project demonstrates the application of data analysis, visualization, forecasting and machine learning techniques to understand India's evolving EV market and generate insights into sales patterns and future demand.
+The analysis highlights India’s rapid shift towards electric mobility, driven by 
+affordable 2W and 3W adoption and supported by state level initiatives. Predictive 
+modelling further confirms that EV sales will continue to rise, underlining the 
+importance of sustained policy support and infrastructure development.
+
+
